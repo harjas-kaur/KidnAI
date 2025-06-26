@@ -1,0 +1,10 @@
+{
+    "azure_connection_string": "HostName=kidney-monitoring-hub.azure-devices.net;DeviceId=microneedle-array-001;SharedAccessKey=your-device-key",
+    "device_id": "microneedle-array-001",
+    "message_property_topic": "kidney_monitoring/biomarkers",
+    "alert_property_topic": "kidney_monitoring/alerts",
+    "rf_model_path": "models/optimized_random_forest_optuna_rpi.joblib",
+    "scaler_path": "models/scaler.joblib",
+    "pca_path": "models/pca_model.joblib",
+    "cluster_model_path": "models/kmeans_model.joblib"
+}
