@@ -188,14 +188,3 @@ python send_data.py  # Start microneedle sensor array monitoring
 - **Wearable Form Factor**: Patch-based continuous monitoring
 - **Multi-Organ Monitoring**: Liver, heart, and kidney assessment
 
-## Contact Information
-
-**Development Team**: Biomedical Engineering Research Lab  
-**Principal Investigator**: Dr. [Name]  
-**Institution**: [University/Medical Center]  
-**Email**: kidney-monitoring@institution.edu  
-**Website**: https://kidney-monitoring-project.org
-
----
-
-*This project represents cutting-edge research in biomedical engineering and is currently in clinical validation phases. The system is designed for research purposes and is not yet approved for clinical use.*
